@@ -1,0 +1,7 @@
+/var/www/vhosts/blayzor.dom/httpdocs/BlazorApp/bin/Debug/net6.0/publish/BlazorApp
+/var/www/vhosts/blayzor.dom/httpdocs/BlazorApp/bin/Debug/net6.0/publish/appsettings.Development.json
+/var/www/vhosts/blayzor.dom/httpdocs/BlazorApp/bin/Debug/net6.0/publish/appsettings.json
+/var/www/vhosts/blayzor.dom/httpdocs/BlazorApp/bin/Debug/net6.0/publish/BlazorApp.dll
+/var/www/vhosts/blayzor.dom/httpdocs/BlazorApp/bin/Debug/net6.0/publish/BlazorApp.deps.json
+/var/www/vhosts/blayzor.dom/httpdocs/BlazorApp/bin/Debug/net6.0/publish/BlazorApp.runtimeconfig.json
+/var/www/vhosts/blayzor.dom/httpdocs/BlazorApp/bin/Debug/net6.0/publish/BlazorApp.pdb

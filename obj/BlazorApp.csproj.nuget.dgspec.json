@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/smm_home/msandakov/work/plesk/dotnet/check/BlazorApp/BlazorApp.csproj": {}
+  },
+  "projects": {
+    "/home/smm_home/msandakov/work/plesk/dotnet/check/BlazorApp/BlazorApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/smm_home/msandakov/work/plesk/dotnet/check/BlazorApp/BlazorApp.csproj",
+        "projectName": "BlazorApp",
+        "projectPath": "/home/smm_home/msandakov/work/plesk/dotnet/check/BlazorApp/BlazorApp.csproj",
+        "packagesPath": "/home/smm/.nuget/packages/",
+        "outputPath": "/home/smm_home/msandakov/work/plesk/dotnet/check/BlazorApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/smm/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Blazor.Extensions.Canvas": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/smm/.dotnet/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
